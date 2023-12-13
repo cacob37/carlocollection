@@ -1,9 +1,10 @@
-# carlocollection
-A collection of portfolios, projects, resumes and anything related to Carlo Acob.
-# Data Analyst
-
 # Education
-SFU MIS/Ops
+Bachelor of Business Administration - Simon Fraser University
+Sep 2020 - Apr 2023
+Concentration: Operations & MIS
+
+Diploma of Business Administration - Douglas College
+Sep 2016 - Dec 2019
 
 # Work Experience
 Data Analyst @ Slalom
@@ -21,6 +22,10 @@ Project Manager @ Conversion
 Project Manager @ Beedie
 • Applied professional communication between multiple stakeholder groups to showcase the importance of multiple pilot projects and to increase further support, buy-in and funding for future projects
 • Improved teamwork and long-term relationships between 300+ student SFU MIS clubs and the MIS faculty which resulted in the creation of multiple hands-on emerging technology workshops for students
+
+# Certifications
+Microsoft Certified: Azure Fundamentals (AZ-900)
+AWS: Certified Cloud Practitioner (AWS CCP)
 
 
 # Projects
