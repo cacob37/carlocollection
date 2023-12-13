@@ -7,7 +7,7 @@ Diploma of Business Administration - Douglas College
 Sep 2016 - Dec 2019  
 
 # Work Experience
-Data Analyst @ Slalom
+Data Analyst @ Slalom  
 • Utilized PowerBI, DAX and calculated functions to create executive dashboards for C-level clients’ understanding of their 3 key growth KPIs that inspired the development of 6 new POCs  
 • Developed a PowerApp that reduced redundant processes by 33%, increasing employee engagement in data usage and leading to cleaner data warehouses  
 • Contributed to the development of a generative AI service using Python, OpenAI and Azure that facilitated safety compliance improvements for ~7,000 clients across various industries.  
