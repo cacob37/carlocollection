@@ -1,5 +1,5 @@
 # carlocollection
-A collection of portfolios, projects, resumes and anything related to Carlo.
+A collection of portfolios, projects, resumes and anything related to Carlo Acob.
 # Data Analyst
 
 # Education
