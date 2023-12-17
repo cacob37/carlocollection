@@ -1,4 +1,4 @@
-<img src="assets/CarloHeadshot.png" alt="Carlo Acob" width="100" />
+<img src="assets/CarloHeadshot.png" alt="Carlo Acob" width="150" />
 
 # Education
 ### Simon Fraser University  
