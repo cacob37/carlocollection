@@ -1,5 +1,3 @@
-<img src="assets/CarloHeadshot.png" alt="Carlo Acob" width="150" />
-
 # Education
 ### Simon Fraser University  
 Bachelor of Business Administration  
