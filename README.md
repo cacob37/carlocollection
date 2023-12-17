@@ -1,10 +1,10 @@
 # Education
-## Simon Fraser University  
+### Simon Fraser University  
 Bachelor of Business Administration  
 Sep 2020 - Apr 2023  
 Concentration: Operations & MIS  
 
-## Douglas College  
+### Douglas College  
 Diploma of Business Administration  
 Sep 2016 - Dec 2019  
 
