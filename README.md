@@ -1,3 +1,4 @@
+[Download Resume](files/GitHub_CAResume.docx){: .btn}
 # Work Experience
 
 ## Data Analyst @ [Slalom](https://www.slalom.com/)  
