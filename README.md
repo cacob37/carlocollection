@@ -1,13 +1,3 @@
-# Education
-### Simon Fraser University  
-Bachelor of Business Administration  
-Sep 2020 - Apr 2023  
-Concentration: Operations & MIS  
-
-### Douglas College  
-Diploma of Business Administration  
-Sep 2016 - Dec 2019  
-
 # Work Experience
 
 ## Data Analyst @ [Slalom](https://www.slalom.com/)  
@@ -31,6 +21,19 @@ Sep 2016 - Dec 2019
 
 • Applied professional communication between multiple stakeholder groups to showcase the importance of multiple pilot projects and to increase further support, buy-in and funding for future projects  
 • Improved teamwork and long-term relationships between 300+ student SFU MIS clubs and the MIS faculty which resulted in the creation of multiple hands-on emerging technology workshops for students  
+
+
+
+# Education
+### Simon Fraser University  
+Bachelor of Business Administration  
+Sep 2020 - Apr 2023  
+Concentration: Operations & MIS  
+
+### Douglas College  
+Diploma of Business Administration  
+Sep 2016 - Dec 2019  
+
 
 # Certifications
 **Microsoft Certified:** Azure Fundamentals (AZ-900)  
