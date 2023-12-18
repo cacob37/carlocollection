@@ -38,4 +38,9 @@ Sep 2016 - Dec 2019
 
 
 # Projects
-Project1
+### Databricks + Azure Claims  
+• Text here
+### Power BI Visualization  
+• Text here
+### Azure Generative AI  
+• Text here
