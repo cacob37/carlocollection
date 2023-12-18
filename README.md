@@ -1,4 +1,5 @@
-[Download Resume](files/GitHub_CAResume.docx){: .btn}
+[Download Resume](files/GitHub_CAResume.docx){: style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;"}
+
 # Work Experience
 
 ## Data Analyst @ [Slalom](https://www.slalom.com/)  
