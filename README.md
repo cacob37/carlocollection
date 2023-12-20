@@ -1,6 +1,6 @@
 <!-- [Download Resume](files/GitHub_CAResume.docx){: style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;"} -->
 
-[<span style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;">**Download Resume**](files/CarloAcobResume.docx)
+[<span style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;">**Download Resume**<br>My professional resume</span>](files/CarloAcobResume.docx)
 
 
 [<span style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;">**View Newsletter**<br>Learn a little more about me!</span>](files/CarloNewsletter.png)
