@@ -1,8 +1,9 @@
 [Download Resume](files/GitHub_CAResume.docx){: style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;"}
 
-[<span style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;">**View Newsletter**<br>Learn a little more about me!</span>](files/CarloNewsletter.png)
+[<span style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;"><strong style="font-weight: normal;">View Newsletter</strong><br><span style="font-size: 16px;">Learn a little more about me!</span></span>](files/CarloNewsletter.png)
 
-[View Newsletter](files/CarloNewsletter.png){: style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;"}
+
+<!-- [View Newsletter](files/CarloNewsletter.png){: style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;"} -->
 
 
 # Work Experience
