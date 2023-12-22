@@ -5,10 +5,6 @@
 
 [<span style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;">**View Newsletter**<br>Learn a little more about me!</span>](files/CarloNewsletter.png)
 
-[<span style="display: inline-block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px; transition: background 0.5s, box-shadow 0.3s;">
-  <strong style="font-weight: normal;">Resume</strong><br>
-  My experiences
-</span>](files/CarloAcobResume.docx)
 
 
 <!-- [View Newsletter](files/CarloNewsletter.png){: style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;"} -->
@@ -57,7 +53,18 @@ Sep 2016 - Dec 2019
 
 
 # Projects
-### 
+### Predictive Analysis for Marketing Campaigns (R)
+Within this MIS term project, my team and I created predictive models to forecast the propensity for an individual to join a subscription plan.
+We were able to gather metadata on customers ranging from age ranges, average meals ordered, etc. Our group tested the multitude of variables
+to test which ones would have the most significant impact through step-wise variable selection. In the end, we found a neural network model that allowed us
+to present the most significant variables for customers to join the subscription. We created visualizations to showcase our findings and showcased possible
+next steps for the company to increase their subscription rate.
+
+### SQL Database for Coffee Shop (SQL)
+Creating a SQL database from scratch can be quite difficult but with the proper planning, diagrams and process, we can break down a business in a very understandable format.
+To begin, my group and I determined what would be the most accurate source of information for the coffee shop and began to create metadata, use cases and entity relationship diagrams
+to piece the puzzle together. By breaking down their process into these use cases and understanding which entities are involved, we were able to begin creating a database within MySQL. My group was able to successfully create a database within SQL and could add, remove or interact with entities as needed. If the shop ever expanded or had new processes, future users would be able to modify the database as needed.
+
 <!-- ### Databricks + Azure Claims  
 • Text here
 ### Power BI Visualization  
