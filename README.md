@@ -5,7 +5,7 @@
 
 [<span style="display: block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px;">**View Newsletter**<br>Learn a little more about me!</span>](files/CarloNewsletter.png)
 
-[<span style="display: inline-block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px; transition: background 0.3s;">
+[<span style="display: inline-block; padding: 20px; margin: 10px auto; background: linear-gradient(to right, #3498db, #2980b9); color: white; text-align: center; text-decoration: none; font-size: 18px; border: none; border-radius: 8px; transition: background 0.5s, box-shadow 0.3s;">
   <strong style="font-weight: normal;">Resume</strong><br>
   My experiences
 </span>](files/CarloAcobResume.docx)
@@ -57,7 +57,7 @@ Sep 2016 - Dec 2019
 
 
 # Projects
-
+### 
 <!-- ### Databricks + Azure Claims  
 • Text here
 ### Power BI Visualization  
