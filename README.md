@@ -65,7 +65,7 @@ next steps for the company to increase their subscription rate.
 Creating a SQL database from scratch can be quite difficult but with the proper planning, diagrams and process, we can break down a business in a very understandable format.
 To begin, my group and I determined what would be the most accurate source of information for the coffee shop and began to create metadata, use cases and entity relationship diagrams
 to piece the puzzle together. By breaking down their process into these use cases and understanding which entities are involved, we were able to begin creating a database within MySQL. My group was able to successfully create a database within SQL and could add, remove or interact with entities as needed. If the shop ever expanded or had new processes, future users would be able to modify the database as needed.
-![Coffee Shop Picture](https://images.squarespace-cdn.com/content/v1/605a255d7879a54cf431e236/85fac997-f81c-4611-a833-5278d993916d/7A0F631A-397B-4B0A-82A7-7E598980EF79.JPG)
+![Coffee Shop Picture](https://perfectdailygrind.com/wp-content/uploads/2019/02/coffee-bar.jpg)
 
 ### Databricks + Azure Claims  
 
