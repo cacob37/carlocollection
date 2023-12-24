@@ -59,7 +59,7 @@ We were able to gather metadata on customers ranging from age ranges, average me
 to test which ones would have the most significant impact through step-wise variable selection. In the end, we found a neural network model that allowed us
 to present the most significant variables for customers to join the subscription. We created visualizations to showcase our findings and showcased possible
 next steps for the company to increase their subscription rate.  
-![Marketing Campaign Picture](https://mytekrescue.com/wp-content/uploads/2019/12/marketing-campaign.png)
+![Marketing Campaign Picture](https://foundr.com/wp-content/uploads/2023/03/Marketing-campaign.jpg)
 
 ### SQL Database for Coffee Shop (SQL)
 Creating a SQL database from scratch can be quite difficult but with the proper planning, diagrams and process, we can break down a business in a very understandable format.
