@@ -59,12 +59,14 @@ We were able to gather metadata on customers ranging from age ranges, average me
 to test which ones would have the most significant impact through step-wise variable selection. In the end, we found a neural network model that allowed us
 to present the most significant variables for customers to join the subscription. We created visualizations to showcase our findings and showcased possible
 next steps for the company to increase their subscription rate.  
+
 ![Marketing Campaign Picture](https://foundr.com/wp-content/uploads/2023/03/Marketing-campaign.jpg)
 
 ### SQL Database for Coffee Shop (SQL)
 Creating a SQL database from scratch can be quite difficult but with the proper planning, diagrams and process, we can break down a business in a very understandable format.
 To begin, my group and I determined what would be the most accurate source of information for the coffee shop and began to create metadata, use cases and entity relationship diagrams
-to piece the puzzle together. By breaking down their process into these use cases and understanding which entities are involved, we were able to begin creating a database within MySQL. My group was able to successfully create a database within SQL and could add, remove or interact with entities as needed. If the shop ever expanded or had new processes, future users would be able to modify the database as needed.
+to piece the puzzle together. By breaking down their process into these use cases and understanding which entities are involved, we were able to begin creating a database within MySQL. My group was able to successfully create a database within SQL and could add, remove or interact with entities as needed. If the shop ever expanded or had new processes, future users would be able to modify the database as needed.  
+
 ![Coffee Shop Picture](https://perfectdailygrind.com/wp-content/uploads/2019/02/coffee-bar.jpg)
 
 ### Databricks + Azure Claims  
