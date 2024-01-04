@@ -72,6 +72,9 @@ to piece the puzzle together. By breaking down their process into these use case
 ### Power BI Visualization  (Power BI, Excel)
 At one of my jobs, one of my main client projects that I tackled was a data visualization project focused around helping key stakeholders understand their business from a top-down view. Our stakeholders encountered challenges with tracking important key performance indicators at their work sites. At the beginning of the project, I discovered the business and data requirements by interviewing the end-users and owners of their current database. Once the requirements were determined, I developed a Power BI dashboard that tracked their key metrics which a multitude of filters to help them be able to drill down and find the exact causes of success or failure. To go above and beyond, I created a companion PowerApp that helped employees validate information and increase overall data consistency.
 
+![PowerBI Picture](https://www.kanbanbox.com/wp-content/uploads/2022/07/KanbanBOX_ekanban_Business_Intelligence_Con_Power_BI_2.png)
+
 
 ### Databricks + Azure Claims  
 One client that I've interacted with had a problem with loading particular data into their Azure databases. With this project, I worked with the client to discover the data they needed and began building out a DataBricks solution to solve it. First, I coded a python script that was able to gather the data they needed and transform it to match their data structures. To help reduce manual workload for the users, I made a DataBricks workflow that would automatically execute the script each day and upload the newly created .CSV files into the client's specific Azure storage workspace. The client was exceptionally happy about the outcome and appreciated the automation and integration into cloud technologies.
+![DataBricks Picture](https://i.stack.imgur.com/a4L7G.png)
