@@ -75,7 +75,7 @@ At one of my jobs, one of my main client projects that I tackled was a data visu
 ![PowerBI Picture](https://www.kanbanbox.com/wp-content/uploads/2022/07/KanbanBOX_ekanban_Business_Intelligence_Con_Power_BI_2.png)
 
 
-### Databricks + Azure Claims  
+### Automated DataBricks Solution (Python, Excel, DataBricks)
 One client that I've interacted with had a problem with loading particular data into their Azure databases. With this project, I worked with the client to discover the data they needed and began building out a DataBricks solution to solve it. First, I coded a python script that was able to gather the data they needed and transform it to match their data structures. To help reduce manual workload for the users, I made a DataBricks workflow that would automatically execute the script each day and upload the newly created .CSV files into the client's specific Azure storage workspace. The client was exceptionally happy about the outcome and appreciated the automation and integration into cloud technologies.
 
 ![DataBricks Picture](https://i.stack.imgur.com/a4L7G.png)
