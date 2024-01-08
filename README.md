@@ -21,7 +21,7 @@
 • Implemented a data engineering project enabled clients to use an API to analyze any data point to strengthen their claims, resulting in a significant reduction in claim investigation time.  
 
 ## Project Manager Intern @ [Conversion](https://conversion.com/)  
-(May 2022 - Sept 2023)  
+(May 2022 - Sept 2022)  
 
 • Analyzed possible improvements to the company’s QA/QC processes and presented a strategy that has been implemented company-wide that decreased time spent on initial QA by 3 hours  
 • Demonstrated exceptional project management skills by producing 120% of the required project output as an appointed supervisor for a month which resulted in further projects from the client  
