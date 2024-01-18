@@ -16,9 +16,9 @@
 (May 2023 - Oct 2023)  
 
 • Utilized PowerBI, DAX and calculated functions to create executive dashboards for C-level clients’ understanding of their 3 key growth KPIs that inspired the development of 6 new POCs  
-• Developed a PowerApp that reduced redundant processes by 33%, increasing employee engagement in data usage and leading to cleaner data warehouses  
+• Investigated a client’s current processes and worked with senior management to create data flow diagrams, tracked data sources, and identified key stakeholders that led to winning a large contract with a client.  
 • Contributed to the development of a generative AI service using Python, OpenAI and Azure that facilitated safety compliance improvements for ~7,000 clients across various industries.  
-• Implemented a data engineering project enabled clients to use an API to analyze any data point to strengthen their claims, resulting in a significant reduction in claim investigation time.  
+• Implemented a data engineering project using Python, SQL, and DataBricks that enabled clients to use an API to analyze any data point, resulting in a significant reduction in investigating insurance claims.  
 
 ## Project Manager Intern @ [Conversion](https://conversion.com/)  
 (May 2022 - Sept 2022)  
@@ -78,4 +78,4 @@ At one of my jobs, one of my main client projects that I tackled was a data visu
 ### Automated DataBricks Solution (Python, Excel, DataBricks)
 One client that I've interacted with had a problem with loading particular data into their Azure databases. With this project, I worked with the client to discover the data they needed and began building out a DataBricks solution to solve it. First, I coded a python script that was able to gather the data they needed and transform it to match their data structures. To help reduce manual workload for the users, I made a DataBricks workflow that would automatically execute the script each day and upload the newly created .CSV files into the client's specific Azure storage workspace. The client was exceptionally happy about the outcome and appreciated the automation and integration into cloud technologies.
 
-![DataBricks Picture](https://i.stack.imgur.com/a4L7G.png)
+![DataBricks Picture](https://adatis.co.uk/wp-content/uploads/What-is-Databricks-SQL.png)
