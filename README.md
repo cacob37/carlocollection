@@ -15,7 +15,7 @@
 ## Data Analyst Intern @ [Slalom](https://www.slalom.com/)  
 (May 2023 - Oct 2023)  
 
-• Utilized PowerBI, DAX and calculated functions to create executive dashboards for C-level clients’ understanding of their 3 key growth KPIs that inspired the development of 6 new POCs  
+• Utilized Power BI and Excel to create executive dashboards for C-level clients, enhancing their understanding of 3 key growth KPIs and inspired the development of 6 new dashboards.  
 • Investigated a client’s current processes and worked with senior management to create data flow diagrams, tracked data sources, and identified key stakeholders that led to winning a large contract with a client.  
 • Contributed to the development of a generative AI service using Python, OpenAI and Azure that facilitated safety compliance improvements for ~7,000 clients across various industries.  
 • Implemented a data engineering project using Python, SQL, and DataBricks that enabled clients to use an API to analyze any data point, resulting in a significant reduction in investigating insurance claims.  
