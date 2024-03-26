@@ -15,10 +15,10 @@
 ## Data Analyst Intern @ [Slalom](https://www.slalom.com/)  
 (May 2023 - Oct 2023)  
 
-• Utilized Power BI and Excel to create executive dashboards for C-level clients, enhancing their understanding of 3 key growth KPIs and inspired the development of 6 new dashboards.  
-• Investigated a client’s current processes and worked with senior management to create data flow diagrams, tracked data sources, and identified key stakeholders that led to winning a large contract with a client.  
-• Contributed to the development of a generative AI service using Python, OpenAI and Azure that facilitated safety compliance improvements for ~7,000 clients across various industries.  
-• Implemented a data engineering project using Python, SQL, and DataBricks that enabled clients to use an API to analyze any data point, resulting in a significant reduction in investigating insurance claims.  
+• Enhanced C-level client understanding of 15+ key growth KPIs using Excel and Power BI which led to the development of 9 comprehensive data dashboards across multiple worksites.    
+• Contributed to winning a large contract with a client by investigating current processes and showcasing findings, data sources and possible improvements for optimization.  
+• Facilitated safety compliance improvements for ~7,000 clients across various industries by using generative AI, Python, OpenAI and Azure.  
+• Reduced data warehouse investigation time for a client by implementing an API that used Python, SQL and Databricks that allowed them to quickly verify over 30 years of info.  
 
 ## Project Manager Intern @ [Conversion](https://conversion.com/)  
 (May 2022 - Sept 2022)  
